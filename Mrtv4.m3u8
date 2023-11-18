@@ -8,16 +8,11 @@
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 playlist_360p.m3u8
-https://pp-live.b-cdn.net/bcdn_token=4g0fEf1d67hOy9GXRdyNKzhQAGnOEogOa4IAS0-fhXA&expires=1700204612&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
 playlist_480p.m3u8
-https://pp-live.b-cdn.net/bcdn_token=4g0fEf1d67hOy9GXRdyNKzhQAGnOEogOa4IAS0-fhXA&expires=1700204612&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-playlist_720p.m3u8
-https://pp-live.b-cdn.net/bcdn_token=4g0fEf1d67hOy9GXRdyNKzhQAGnOEogOa4IAS0-fhXA&expires=1700204612&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
-playlist_1080p.m3u8
-https://pp-live.b-cdn.net/bcdn_token=4g0fEf1d67hOy9GXRdyNKzhQAGnOEogOa4IAS0-fhXA&expires=1700204612&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
 
 
 
