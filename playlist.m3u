@@ -65,6 +65,24 @@ http://183.89.246.119:8881/play/a081/index.m3u8
 
 http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/11/Football-logo-design-on-transparent-background-PNG.png "group-title="Myanmar channel ", fortune 
+
+#EXTVLCOPT:http-referrer=
+http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+
+
+
+
+"group-title="Myanmar channel ", fortune 
+
+#EXTVLCOPT:http-referrer=
+
+http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
+
+
+
+
 
 
 
