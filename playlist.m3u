@@ -71,14 +71,13 @@ http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 
+#EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 ,TNT sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 
 
 
-"group-title="Myanmar channel ", fortune 
-
-#EXTVLCOPT:http-referrer=
-
-http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 
 
 
