@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1600000
+playlist.m3u8
+https://pp-live.b-cdn.net/bcdn_token=kp6z1GAQcpUl8y2GrgbOQQmi-mcKYsM5oHL2ojmCRGM&expires=1704088941&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
