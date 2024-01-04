@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+playlist_720p.m3u8
+pp-live.b-cdn.net/bcdn_token=Tv13qCwplqRvyT-QznRSWthyBATcIOtRtUP-nqudS0Q&expires=1704347777&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
