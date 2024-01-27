@@ -3,4 +3,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
 playlist_720p.m3u8
-https://pp-live.b-cdn.net/bcdn_token=kp6z1GAQcpUl8y2GrgbOQQmi-mcKYsM5oHL2ojmCRGM&expires=1704088941&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhTL1pKt9bmdmoq7v13jPnI/ts
